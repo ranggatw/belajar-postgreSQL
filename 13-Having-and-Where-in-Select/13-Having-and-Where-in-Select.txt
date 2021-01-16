@@ -1,0 +1,11 @@
+Di dalam klausa having dan where dalam select
+
+
+link : https://www.dimas-maryanto.com/bootcamp/rdbms/postgresql/019-group-by-having
+
+Jadi terdapat beberapa jenis implementasi yang bisa di gunakan pada group by having dan where select
+
+* Klausa where prosesnya adalah akan melakukan filter terlebih dahulu sebelum dilakukan proses group by.
+
+Contoh : - Tampilkan jumlah karyawan yang memiliki gaji perbulan lebih dari sebesar 5000 kemudian kategorikan berdasarkan manager_id. (buka file 13....sql)
+

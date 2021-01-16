@@ -1,0 +1,4 @@
+    ** Group By di Postgresql **
+Lanjutan dari group function adalah group by, yang fungsinya untuk membreak down atau mengkategorikan kemudian di buatlah group function.
+
+Biasa digunakan untuk aplikasi yang bermotif penjualan karena kita bisa mengkatrgorikan penjualan produk berdasarkan kategori tertentu contohnya jumlah penjualan produk A per bulan, pertahun dan lain-lain.
