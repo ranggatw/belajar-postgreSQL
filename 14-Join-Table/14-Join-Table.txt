@@ -1,0 +1,16 @@
+* JOIN TABLE*
+
+Klausa JOIN adalah klausa untuk menghubungkan tabel yang terpisah menjadi satu berdasarkan FOREIGN KEY / 
+
+https://www.dimas-maryanto.com/bootcamp/rdbms/postgresql/020-join
+
+>> Di dalam postgresql terdapat 2 jenis join :
+    1. Inner join
+    2. Outer join
+
+Namun pada penggunan teknisnya terdapat 4 jenis join :
+    1. Natural JOIN
+    2. Inner JOIN
+    3. Outer JOIN
+    4. Self JOIN
+
