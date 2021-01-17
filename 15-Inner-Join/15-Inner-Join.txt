@@ -1,0 +1,3 @@
+** Inner Join **
+
+Inner Join di gunakan jika nama columnnya berbeda dengan Klausa 'ON' atau 'WHERE' kita bisa bebas menentukan column mana saja yang akan di relasikan.

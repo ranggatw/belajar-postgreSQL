@@ -31,3 +31,4 @@ SELECT
     l.state_province
 FROM
     locations l NATURAL JOIN employees emp;
+
